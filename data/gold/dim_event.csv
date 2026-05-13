@@ -1,0 +1,399 @@
+﻿event_id,event_name,sport_id
+1,AT17 - Softbalwerpen/Lancement softball,1
+2,AT16 - Verspringen zonder aanloop/Saut en longueur sans élan,1
+3,AT14 - 50  M Course/Lopen,1
+4,CY05 - 5km,2
+5,Divisioning 500m-1Km,2
+6,(copy of) Divisioning 500m-1Km,2
+7,CY01 - 1km,2
+8,CY-Divisioning3-15 km,2
+9,(copy of) CY-Divisioning3-15 km,2
+10,CY07 - 7km,2
+11,FO FINALS 7 A Side,3
+12,FO - Soccer 7 A Side Team,3
+13,AT21 - 200  M Lopen/Course,1
+14,AT20 - 100  M Course/Lopen,1
+15,AT29 - Lancement poids 3 Kg/Kogelstoten 3 Kg,1
+16,SG - Chinese Handball,4
+17,SG - Hexagonal Floorball,4
+18,SG - Small Balls,4
+19,SG - Relay 2,4
+20,SG - Basket Relay,4
+21,SG - Runball,4
+22,SG - Javelot,4
+23,SG - Relay 1,4
+24,AGPA - Level A,5
+25,SW91 - 33 M Freestyle,6
+26,SW92 - 66 M Freestyle,6
+27,BDI - Badminton Singles,7
+28,TTI - Table Tennis Singles,8
+29,BOV Bocce Divisioning,9
+30,BOD - Bocce Doubles,9
+31,AT26 - Saut en longueur Int/Verspringen Int,1
+32,AT24 - 800  M Lopen/Course,1
+33,AT23 - 4X100 M Estafette/Aflossing,1
+34,CY15 - 15km,2
+35,SW68 - 66 M Assisted Swim Back,6
+36,SW65 - 33 M Assisted Swim Front,6
+37,SW66 - 33 M Assisted Swim Back,6
+38,EQGY - Gymkhana,10
+39,EQT1 - Trot 1,10
+40,PA11 - Initiation Football,11
+41,PA03 - Standing High Jump,11
+42,PA00 - Adapted Physical Activities,11
+43,PA13 - Initiation Basketball,11
+44,PA01 - Unihocky Course,11
+45,PA02 - Medicinball Toss,11
+46,PA06 - Petanque,11
+47,PA09 - Endurance Run 6 minutes,11
+48,SW14 - 33 M Breaststroke,6
+49,SW15 - 66 M Breaststroke,6
+50,AT28 - Kogelstoten 4 Kg/Lancement poids 4 Kg,1
+51,BOI - Bocce Singles,9
+52,AT13 - 50  M Wandelen/Marche,1
+53,NB - Netball Team,12
+54,TEI - Tennis Singles,13
+55,BWV - Bowling Singles,14
+56,BWV - Bowling Singles Sheduling,14
+57,AG1 - Floor Exercise Compulsory,5
+58,AG6 - Balance Beam Compulsory,5
+59,AG4 - Uneven Bars Compulsory,5
+60,AG2 - Vault Compulsory,5
+61,SW93 - 99 M Freestyle,6
+62,MA - Motor Activities Relay,15
+63,MA - Motor Activities Group,15
+64,FL - Floorball Team,16
+65,FLS1 - Dribble,16
+66,FLS2 - Penalty,16
+67,FLST - Floorball Skills Total,16
+68,FLS3 - Shoot at Goal,16
+69,FLS4 - Pass,16
+70,BB - Basketball Team,17
+71,RG2 - Hoop Compulsory,18
+72,AT10 - 400  M Course-Marche/Lopen-Wandelen,1
+73,SW24 - 33 M Backstroke,6
+74,SW95 - 4X33 M Freestyle Relay,6
+75,AT25 - Verspringen/Saut en longueur,1
+76,AT22 - 400  M Lopen/Course,1
+77,TR30 - Three Day Event,19
+78,TR33 - 3km Run,19
+79,TR32 - 10km Cycling,19
+80,TR31 - 250m Swimming,19
+81,CY00 - 500m,2
+82,(copy of) Divisioning- 500m & 1Km Tricycle,2
+83,Divisioning- 500m & 1Km Tricycle,2
+84,CY30 - 500m Tricycle,2
+85,AT52 - 100 M Rolstoel/Chaise roulant,1
+86,SW77 - 66 M Flotation Race Front,6
+87,SW75 - 33 M Flotation Race Front,6
+88,JU - Judo,20
+89,ATU2 - 1500 M Unified Lopen-Wandelen/Course-Marche,1
+90,AT15 - 1500  M Course-Marche/Lopen-Wandelen,1
+91,AT31 - 1500  M Lopen/Course,1
+92,AT32 - 5000  M Lopen/Course,1
+93,AT35 - Mini Javelin 400g Mini speerwerpen,1
+94,AT18 - 100  M Marche/Wandelen,1
+95,AG8 - Horizontal Bar Compulsory,5
+96,AG3 - Parallel Bars Compulsory,5
+97,CY31 - 1km Tricycle,2
+98,SW67 - 66 M Assisted Swim Front,6
+99,BWW - Bowling Weelchair Sheduling,14
+100,BWW - Bowling Weelchair,14
+101,AT34 - Mini Javelot 300g Mini speerwerpen,1
+102,SW25 - 66 M Backstroke,6
+103,SW45 - 66 M International Breaststroke,6
+104,CY03 - 3km,2
+105,EQST - Step,10
+106,ATU1 - 4X100 M Aflossing unified/Estafette unifié,1
+107,SW16 - 99 M Breaststroke,6
+108,SW55 - 33 M Unassisted Swim Front,6
+109,SW57 - 66 M Unassisted Swim Front,6
+110,EQGA - Gallop,10
+111,ATU3 - 1500 M Unified Lopen/Course Unifié,1
+112,AT33 - Kogelstoten 2 Kg/Lancement poids 2 Kg,1
+113,BOU Bocce Unified Doubles,9
+114,BDU - Badminton Unified Doubles,7
+115,SW97 - 198 M Freestyle,6
+116,AT19 - 400  M Wandelen/Marche,1
+117,SW56 - 33 M Unassisted Swim Back,6
+118,RG4 - Rope Compulsory,18
+119,AT54 - Lancement poids/Kogelstoten 2Kg Rolstoel/Chaise roulant,1
+120,AT51 - 30 M Slalom Rolstoel/Chaise roulant,1
+121,AT53 - 400 M Rolstoel/Chaise roulant,1
+122,SW76 - 33 M Flotation Race Back,6
+123,SW78 - 66 M Flotation Race Back,6
+124,AGI - Floor Exercise Free,5
+125,EQSB - Novice Step,10
+126,EQT2 - Trot 2,10
+127,AGB - Vault Free,5
+128,AGF - Balance Beam Free,5
+129,RG5 - Ribbon Free,18
+130,RG6 - Ball Free,18
+131,RG7 - Hoop Free,18
+132,SW35 - 66 M Butterfly,6
+133,RG1 - Ball Compulsory,18
+134,RG0 - Ribbon Compulsory,18
+135,AG7 - Pommel Horse Compulsory,5
+136,AGH - Horizontal Bar Free,5
+137,AT16 - Saut en longueur sans élan/Staande vertesprong,1
+138,AT17 - Lancement de softball/Softbalwerpen,1
+139,CY - 5km,2
+140,CY - Divisioning 5km,2
+141,CY - 7km,2
+142,CY - 1km,2
+143,CY - Divisioning 1km,2
+144,AT29 - Lancement du poids 3 Kg/Kogelstoten 3 Kg,1
+145,AT21 - 200  M Course/Lopen,1
+146,AT22 - 400  M Course/Lopen,1
+147,SG - Jeux Sportifs/Sportspelen,4
+148,AG - Niveau A,5
+149,AQ92 - 50 M Nage Libre/Vrije Slag,6
+150,AQ91 - 25 M Nage Libre/Vrije Slag,6
+151,BD - Simple/Individueel,7
+152,TT - Simple/Individueel,8
+153,AT24 - 800  M Course/Lopen,1
+154,AT31 - 1500  M Course/Lopen,1
+155,TR - Triathlon 3 Jours/Triatlon 3 Dagen,19
+156,TR - 10km Cyclisme/Fietsen,19
+157,TR - 3 km Course à Pieds/Lopen,19
+158,TR - 250m Natation/Zwemmen,19
+159,AQ14 - 25 M Brasse/Schoolslag,6
+160,AQ15 - 50 M Brasse/Schoolslag,6
+161,AQ66 - 25 M Dorsal Ass./Rugligging met Ass.,6
+162,AQ68 - 50 M Dorsal Ass./Rugligging met Ass.,6
+163,AQ65 - 25 M Ventral Ass./Borstligging met Ass.,6
+164,EQGY - Gymk(h)ana 2,10
+165,EQT1 - Trot/Draf 1,10
+166,APA - Petanque,11
+167,APA - Hindernissenloop,11
+168,APA - Kegelvoetbal,11
+169,APA - Kogelstoten,11
+170,APA - Evenwicht,11
+171,APA - Sprint,11
+172,APA - APA/AFA,11
+173,FO - 7 A Side Team,3
+174,CY - Divisioning 500m Tricycle/Driewieler,2
+175,CY - 1km Tricycle/Driewieler,2
+176,CY - 500m Tricycle/Driewieler,2
+177,AT28 - Lancement du poids 4 Kg/Kogelstoten 4 Kg,1
+178,AT13 - 50  M Marche/Wandelen,1
+179,BO - Simple/Individueel,9
+180,BO - Divisioning,9
+181,CY - 500m,2
+182,AQ16 - 100 M Brasse/Schoolslag,6
+183,FL - Skills Total/Totaal,16
+184,FL - Dribble,16
+185,FL - Tir au but/Schieten op doel,16
+186,FL - Passe/Pas,16
+187,FL - Penalty,16
+188,FINALS FOOTBALL- 7 A Side Team,3
+189,TE - Simple/Individueel,13
+190,AG - Sol Imp./Opgelegde Grondoefening,5
+191,AG - Concours Complet Femmes/Volledige wedstrijd Dames,5
+192,AG - Barres Asymétriques Imp./Opgelegde Brug met Ongelijke Leggers,5
+193,AG - Saut Imp./Opgelegde Sprong,5
+194,AG - Poutre Imp./Opgelegde Balk,5
+195,AQ24 - 25 M Dos/Rugslag,6
+196,CY - 15km,2
+197,CY - 3km,2
+198,AQ95 - 4X25 M Nage Libre/Vrije Slag,6
+199,AT25 - Saut en longueur/Verspringen,1
+200,BWV - Bowling Simple/Single,14
+201,EQGY - Gymk(h)ana 1,10
+202,EQST - Pas/Stap,10
+203,AG - Barre Fixe Imp./Opgelegde Rekstok,5
+204,AG - Cheval-D'Arçons Imp./Opgelegde Paard met Bogen,5
+205,AG - Barres Parallèles Imp./Opgelegde Brug met Gelijke Leggers,5
+206,AG - Concours Complet Hommes/Volledige wedstrijd Heren,5
+207,AQ77 - 50 M Ventral Supp./Borstligging met Hulp,6
+208,AQ75 - 25 M Ventral Supp./Borstligging met Hulp,6
+209,ATU3- 1500 M Course Unifié/Unified Lopen,1
+210,AT32 - 5000  M Course/Lopen,1
+211,AG - Barre Fixe Libre/Vrije Rekstok,5
+212,AG - Saut Libre/Vrije Sprong,5
+213,AG - Barres Parallèles Libre/Vrije Brug met Gelijke Leggers,5
+214,AG - Sol Libre/Vrije Grondoefening,5
+215,AQ67 - 50 M Ventral Ass./Borstligging met Ass.,6
+216,BD - Double Unifié/Dubbel Unified,7
+217,BWW -  Bowling Chaise roulante/Rolstoelbowling,14
+218,AQ25 - 50 M Dos/Rugslag,6
+219,AT34 - Mini Javelot 300g/Mini speerwerpen 300g,1
+220,EQSB - Débutant au Pas/Stap voor Beginners,10
+221,AQ78 - 50 M Dorsal Supp./Rugligging met Hulp,6
+222,AQ76 - 25 M Dorsal Supp./Rugligging met Hulp,6
+223,AT41 - Pentathlon 1 - 100 M Course/Lopen,1
+224,AT44 - Pentathlon 4 - Saut en hauteur/Hoogspringen,1
+225,AT40- Pentathlon,1
+226,AT43 - Pentathlon 3 - Lancement du poids/Kogelstoten,1
+227,AT45 - Pentathlon 5 - 400 M Course/Lopen,1
+228,AT42 - Pentathlon 2 - Saut en longueur/Verspringen,1
+229,BO - Double/Dubbel,9
+230,CY - Divisioning 3km,2
+231,AT51 - 30 M Slalom Chaise roulante/Rolstoel,1
+232,AT52 - 100 M Chaise roulante/Rolstoel,1
+233,AT54 - Lancement du poids 2kg Chaise roulante/Kogelstoten 2kg Rolstoel,1
+234,AT33 - Lancement du poids 2 Kg/Kogelstoten 2 Kg,1
+235,AT35 - Mini Javelin 400g/Mini speerwerpen 400g,1
+236,AQ93 - 100 M Nage Libre/Vrije Slag,6
+237,AT19 - 400  M Marche/Wandelen,1
+238,AT23 - 4X100 M Relais/Aflossing,1
+239,AQ57 - 50 M Ventral/Borstligging,6
+240,AQ55 - 25 M Ventral/Borstligging,6
+241,RG - Sol Imp./Opgelegde Grondoefening,18
+242,RG - Balle Imp./Opgelegde Bal,18
+243,EQT2 - Trot/Draf 2,10
+244,AQ56 - 25 M Dorsal/Rugligging,6
+245,AQ97 - 200 M Nage Libre/Vrije Slag,6
+246,EQGA - Galop/Gallop,10
+247,AT27 - Saut en hauteur/Hoogspringen,1
+248,AQ35 - 50 M Papillon/Vlinderslag,6
+249,CY - 10km,2
+250,RG - Cerceau Libre/Vrije Hoepel,18
+251,RG - Balle Libre/Vrije Bal,18
+252,RG - Ruban Libre / Vrij Lint,18
+253,AQ94 - 400 M Nage Libre/Vrije Slag,6
+254,AQ46 - 100 M Brasse Int./Int. Schoolslag,6
+255,AQ58 - 50 M Dorsal/Rugligging,6
+256,ATU2 - 1500 M Course-Marche Unifié/Unified Lopen-Wandelen,1
+257,RG - Ruban Imp. / Opgelegd Lint,18
+258,RG - Cerceau Imp./Opgelegde Hoepel,18
+259,AQ45 - 50 M Brasse Int./Int. Schoolslag,6
+260,RG - Corde Imp./Opgelegd Touw,18
+261,ATU4 - 5000 M Course Unifié/Unified Lopen,1
+262,CY - Divisioning 500m,2
+263,AQ44 - 25 M Brasse Int./Int. Schoolslag,6
+264,AQ34 - 25 M Papillon/Vlinderslag,6
+265,CY - Divisioning 1km (500m-1km),2
+266,CY - Divisioning 5km (5km-7km-10km-15km),2
+267,AT29 - Lancer du poids 3 Kg/Kogelstoten 3 Kg,1
+268,AT28 - Lancer du poids 4 Kg/Kogelstoten 4 Kg,1
+269,APA - Unihockey/Unihoc,11
+270,APA - Initiatie basketbal/Initiation basketball,11
+271,APA - Initiatie voetbal/Initiation football,11
+272,APA - Staande hoogtespsrong/Saut en hauteur sans élan,11
+273,APA - Medicinebalworp/Lancement de medecineball,11
+274,APA - Initiatie kogelstoten/Initiation lancer du poids,11
+275,Finales  FO - 7 A Side Team,3
+276,AQ 4X25 M Unified Freestyle Relay,6
+277,APA - 40 m sprint,11
+278,AG - Barres Asymétriques / Brug met Ongelijke Leggers,5
+279,AG - Poutre / Balk,5
+280,AG - Sol / Grondoefening,5
+281,AG - Saut / Sprong,5
+282,FL - Tir précision/Nauwkeurig schieten,16
+283,FU - 7 A Side Unified Team,3
+284,finales FU - 7 A Side Unified Team,3
+285,ATU5 - 4X200 M Unified Relay,1
+286,AT33 - Lancer du poids 2 Kg/Kogelstoten 2 Kg,1
+287,AG - Barre Fixe / Rekstok,5
+288,AG - Anneaux / Ringen,5
+289,AG - Barres Parallèles / Brug met Gelijke Leggers,5
+290,AG - Niveau B,5
+291,CY - Divisioning 500m Tricycle/Driewieler (500m-1km),2
+292,BD Double/Dubbel - Double Unifié/Dubbel Unified,7
+293,AG - Cheval-D'Arçons / Paard met Bogen,5
+294,EQGA1 - Galop 1,10
+295,AT54 - Lancer du poids 2kg Chaise roulante/Kogelstoten 2kg Rolstoel,1
+296,CY - Divisioning 3km (3km),2
+297,RG - Ballon / Bal,18
+298,RG - Cerceau / Hoepel,18
+299,EQGA2 - Galop 2,10
+300,RG - Corde / Touw,18
+301,RG - Ruban / Lint,18
+302,RG - Massue / Kegel,18
+303,SG - Chinese Hanball,4
+304,APA - Kegelvoetbal/Football de quilles,11
+305,APA - Petanquebalwerpen/Lancement de boule de pétanque,11
+306,APA - Uithouding (6min)/Endurance (6min),11
+307,APA - Hindernissenloop/Course d'obstacles,11
+308,APA - Evenwichtsoefeningen/Exercice d'équilibre,11
+309,FINALES FO - 7 A Side Team,3
+310,FL - Tir de précision/Nauwkeurig schieten,16
+311,FL - Tirs au but/Schieten op doel,16
+312,FL - Maniement du stick/Dribbel,16
+313,FL - Réception&Transmission/Pasen&Ontvangen,16
+314,BD - Double/Dubbel - Double Unifié/Dubbel Unified,7
+315,TR -3km Course à pied/Lopen,19
+316,FINALS FU - 7 A Side Unified Team,3
+317,ATU1 - 4X100 M Relais Unifié/Aflossing Unified,1
+318,FL - Réception&Transmission/Passen&Ontvangen,16
+319,APA - Initiatie kogelstoten/Initiation lancement du poids,11
+320,APA - Sprint-Snelheid/Sprint-Vitesse,11
+321,APA - Staande hoogtesprong/Saut en hauteur s. élan,11
+322,SA Sailing Monohull Level 3,21
+323,APA - Voetbal/Football,11
+324,APA - Kegelvoetbal/Football quilles,11
+325,APA - Staande hoogstesprong/Saut en Hauteur s. élan,11
+326,APA - Medecineball,11
+327,TR - 3km Course à pied/Lopen,19
+328,AT30 - 4X200 M Relais/Aflossing,1
+329,AG - Niveau C Complet / Volledig,5
+330,AT45 - Pentathlon 5 - 800 M Course/Lopen,1
+331,AG - Niveau B Sol / Grondoefening,5
+332,AG - Niveau B Poutre / Balk,5
+333,AG - Niveau B Saut / Sprong,5
+334,AG - Niveau C Poutre / Balk,5
+335,AG - Niveau C Sol / Grondoefening,5
+336,AG - Niveau C Saut / Sprong,5
+337,AG - Niveau C Barre Fixe / Rekstok,5
+338,AG - Niveau C Cheval-D'Arçons / Paard met Bogen,5
+339,RG - Concours Complet/Volledige wedstrijd,18
+340,AG - Niveau C Barres Asymétriques / Brug met Ongelijke Leggers,5
+341,AG - Niveau B Barres Asymétriques / Brug met Ongelijke Leggers,5
+342,AG - Niveau B Complet / Volledig,5
+343,APA - 40m Sprint,11
+344,APA - Kogelstoten/Lancement de poids,11
+345,APA - Evenwicht/Equilibre,11
+346,APA - Basketbal(l),11
+347,KY 200 M Double Touring Kayak,22
+348,KY 200 M Pendulum Relay Kayak,22
+349,KY 200 M Single Professional Kayak,22
+350,KY 200 M Unified Double Touring Kayak,22
+351,KY 200 M Unified Double Professional Kayak,22
+352,KY 200 M Single Touring Kayak,22
+353,EQGA BER - Galop BER,10
+354,EQT BER - Trot/Draf BER,10
+355,AQ24 - 25 M Dos/Rugslag,23
+356,AQ15 - 50 M Brasse/Schoolslag,23
+357,AQ91 - 25 M Nage Libre/Vrije Slag,23
+358,AQ14 - 25 M Brasse/Schoolslag,23
+359,AQ92 - 50 M Nage Libre/Vrije Slag,23
+360,AQ25 - 50 M Dos/Rugslag,23
+361,AQ57 - 50 M Ventral/Borstligging,23
+362,AQ55 - 25 M Ventral/Borstligging,23
+363,AQ16 - 100 M Brasse/Schoolslag,23
+364,APA - Kogelstoten/Lancement du poids,11
+365,APA - Uithouding 6min /Endurance 6min,11
+366,APA - Unihockey,11
+367,APA - Medicinebalworp/Lancement médecine ball,11
+368,AQ56 - 25 M Dorsal/Rugligging,23
+369,AQ95 - 4X25 M Nage Libre/Vrije Slag,23
+370,AQ93 - 100 M Nage Libre/Vrije Slag,23
+371,AQ65 - 25 M Ventral Ass./Borstligging met Ass.,23
+372,AQ67 - 50 M Ventral Ass./Borstligging met Ass.,23
+373,AQ66 - 25 M Dorsal Ass./Rugligging met Ass.,23
+374,AQ76 - 25 M Dorsal Supp./Rugligging met Hulp,23
+375,AQ75 - 25 M Ventral Supp./Borstligging met Hulp,23
+376,AQ97 - 200 M Nage Libre/Vrije Slag,23
+377,AQ34 - 25 M Papillon/Vlinderslag,23
+378,AQ58 - 50 M Dorsal/Rugligging,23
+379,AQ68 - 50 M Dorsal Ass./Rugligging met Ass.,23
+380,AQ77 - 50 M Ventral Supp./Borstligging met Hulp,23
+381,SG -  Hexagonal Floorball,4
+382,SG -  Javelot,4
+383,SG - Runballs,4
+384,Evenwicht/ Equilibre APA - APA/AFA,11
+385,Hindernissenloop/Course d'obstacle  APA - APA/AFA,11
+386,Kegelvoetbal / Football de quilles APA - APA/AFA,11
+387,PA Sprong/Saut,11
+388,Petanque APA - APA/AFA,11
+389,Sprint APA - APA/AFA,11
+390,Unihockey APA - APA/AFA,11
+391,RG - Sol / Vloer,18
+392,AG - Niveau B Cheval-D'Arçons / Paard met Bogen,5
+393,RG - Niveau C Ballon / Bal,18
+394,RG - Niveau C Cerceau / Hoepel,18
+395,RG - Niveau C Corde / Touw,18
+396,BWW -  Bowling Avec rampe - chaise roulante/Met ramp - rolstoelbowling,14
+397,AG - Niveau B Barre Fixe / Rekstok,5
+398,AQ78 - 50 M Dorsal Supp./Rugligging met Hulp,23

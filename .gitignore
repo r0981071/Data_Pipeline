@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+
+data/bronze/
+
+*.xlsx
+
+Thumbs.db
