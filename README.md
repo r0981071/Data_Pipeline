@@ -1,30 +1,40 @@
 # SOB Data Pipeline
 
-ETL pipeline project for the Special Olympics Belgium data case.
+Python ETL pipeline for the Special Olympics Belgium data case.
 
 ## Project Structure
 
-- Bronze: raw Excel files
-- Silver: cleaned datasets
-- Gold: final star schema tables
+- `data/bronze`: raw Excel files
+- `data/silver`: cleaned intermediate CSV files
+- `data/gold`: final star schema CSV files
+- `helpers`: Python helper functions
+- `main.py`: runs the full pipeline
 
 ## Technologies
 
 - Python
 - Pandas
 - MySQL
+- GitHub
 - Power BI
 
 ## Pipeline
 
-1. Extract Excel files
-2. Transform and clean datasets
-3. Create star schema tables
-4. Load gold tables into MySQL
+1. Extract raw Excel files from the Bronze layer
+2. Clean and standardize data into the Silver layer
+3. Create final star schema tables in the Gold layer
+4. Load Gold tables into MySQL
 
-## Output
+## Gold Tables
 
-Final outputs:
-- Silver CSV files
-- Gold CSV files
-- MySQL tables
+- `dim_athlete`
+- `dim_certification`
+- `dim_club`
+- `dim_date`
+- `dim_event`
+- `dim_sport`
+- `fact_results`
+
+## Notes
+
+The Gold tables are used for the Power BI semantic model.

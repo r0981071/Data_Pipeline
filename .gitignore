@@ -5,8 +5,4 @@ __pycache__/
 
 .vscode/
 
-data/bronze/
-
-*.xlsx
-
 Thumbs.db
