@@ -142,7 +142,6 @@ def create_gold_tables(silver_tables):
 
     # DIM SPORT
     dim_sport = results[["sport"]].drop_duplicates().copy()
-    dim_sport["sport_code"] = dim_sport["sport"]
     dim_sport.insert(0, "sport_id", range(1, len(dim_sport) + 1))
 
     # DIM EVENT

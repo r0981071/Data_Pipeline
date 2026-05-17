@@ -1,24 +1,24 @@
-﻿sport_id,sport,sport_code
-1,Athletics/Track and Field,Athletics/Track and Field
-2,Cycling,Cycling
-3,Football/Soccer,Football/Soccer
-4,Sportgames,Sportgames
-5,Gymnastics (Artistic),Gymnastics (Artistic)
-6,Aquatics/Swimming,Aquatics/Swimming
-7,Badminton,Badminton
-8,Table Tennis,Table Tennis
-9,Bocce,Bocce
-10,Equestrian,Equestrian
-11,Adapted Physical Activities,Adapted Physical Activities
-12,Netball,Netball
-13,Tennis,Tennis
-14,Bowling,Bowling
-15,Motor Activities,Motor Activities
-16,Floorball,Floorball
-17,Basketball,Basketball
-18,Gymnastics (Rhythmic),Gymnastics (Rhythmic)
-19,Triathlon,Triathlon
-20,Judo,Judo
-21,Sailing,Sailing
-22,Kayaking,Kayaking
-23,Swimming,Swimming
+﻿sport_id,sport
+1,Athletics/Track and Field
+2,Cycling
+3,Football/Soccer
+4,Sportgames
+5,Gymnastics (Artistic)
+6,Aquatics/Swimming
+7,Badminton
+8,Table Tennis
+9,Bocce
+10,Equestrian
+11,Adapted Physical Activities
+12,Netball
+13,Tennis
+14,Bowling
+15,Motor Activities
+16,Floorball
+17,Basketball
+18,Gymnastics (Rhythmic)
+19,Triathlon
+20,Judo
+21,Sailing
+22,Kayaking
+23,Swimming
